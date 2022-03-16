@@ -1,0 +1,10 @@
+prompt=Run Application:
+show=run
+width=50%
+location=topright
+dynamic_lines=true
+
+# Bindings
+key_forward=j
+key_backward=k
+key_submit=l

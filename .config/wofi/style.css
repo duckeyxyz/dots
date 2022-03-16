@@ -1,0 +1,14 @@
+window {
+    font-family: Ubuntu;
+    opacity: 0.97;
+}
+
+#entry {
+    padding:6px;
+    margin: 0px 4px 0px 4px;
+}
+
+#outer-box {
+	border: 5px solid #282a36;
+}
+

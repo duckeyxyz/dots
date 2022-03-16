@@ -1,0 +1,14 @@
+#!/bin/bash
+
+MUSIC_DIR=$HOME/media/music/
+
+{
+    album="$(mpc --format %album% current)"
+    file="$(mpc --format %file% current)"
+    album_dir="${file%/*}"
+    [[ -z "$album_dir" ]] && exit 1
+    album_dir="$MUSIC_DIR/$album_dir"
+
+    notify-send -i "$COVER" "Now Playing" "$(mpc current)"
+                #notify-send -i "$COVER" "Now Playing ♫" "$(mpc current"
+} &

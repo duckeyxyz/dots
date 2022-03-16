@@ -1,0 +1,30 @@
+#The channel ID prefix URL for RSS:
+#https://www.youtube.com/feeds/videos.xml?channel_id=
+
+#The username prefix URL for RSS:
+#https://www.youtube.com/feeds/videos.xml?user=
+
+#The playlist prefix URL for RSS:
+#https://www.youtube.com/feeds/videos.xml?playlist_id=
+
+---TECHNOLOGY---
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA
+https://www.youtube.com/feeds/videos.xml?user=MentalOutlawStudios "Mental Outlaw"
+https://www.youtube.com/feeds/videos.xml?user=OmegaDungeon "Brodie"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJetJ7nDNLlEzDLXv7KIo0w
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg
+file:///home/gerson/.config/newsboat/atom_urls/void.atom
+---LOLCOWS---
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkfjL7T-jY_suS0IJDsZtTQ
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4IGwxzBOzQ8mtHV5mlVUBA
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQ1Diq0oMGla5CpnSGORkbA
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7Ql1bhBYk8LVMpZfkRZJGQ
+---GENERAL---
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdZY83VtDv0WieDHLyXrlNQ
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-jln7H9BVxgX1zZvDcDatg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCmFeOdJI3IXgTBDzqBLD8qg
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9DvHIySY_RDq7D92QV65bw
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3Hc3eyqALYSX0WKfqbO13Q
+---ANIME---
+https://subsplease.org/rss/?t&r=720
+https://nyaa.si/?page=rss
